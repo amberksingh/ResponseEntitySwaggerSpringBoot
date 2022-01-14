@@ -9,4 +9,5 @@ public class Person {
 
     private String personName;
     private String personId;
+    private CreditCard creditCard;
 }
