@@ -1,0 +1,8 @@
+server:
+  port: 9090
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui-person.html
+  paths-to-match: /person/**
+  packages-to-scan: com.example.demo
